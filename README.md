@@ -5,3 +5,4 @@ updated network on git repo settings
 let see if this works
 let see if this worksuyyyy
 just updated 
+added plugins to jenkins
