@@ -7,3 +7,4 @@ let see if this worksuyyyy
 just updated 
 added plugins to jenkins
 fhghdhchggfhdfgh
+added plugins to jenkinsttt
